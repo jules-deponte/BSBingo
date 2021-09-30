@@ -5,7 +5,7 @@ var bs = ['drill down', 'circle back', 'get granular', 'offline', 'ecosystem',
         'target audience', 'customer centric', '10,000 foot view', 'capacity', 'reinvent the wheel',
         'think outside the box', 'reach out', 'gain traction', 'workflow', 'dynamic',
         'boil the ocean', 'touch base', 'in these uncertain times', 'touch points', 'win-win',
-        'low hanging fruit', 'table that discussion', 'new normal', 'on board', 'elevator pitch',]
+        'low hanging fruit', 'table that discussion', 'new normal', 'on board', 'elevator pitch', 'thought leadership',]
 
 
 //Function that creates GRID
